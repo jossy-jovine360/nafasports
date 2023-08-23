@@ -69,17 +69,17 @@ public class AppData {
     
     
 //    ******************** JNAFA Offline **************************************
-    public static final String CONTROLLER = "ControllerServlet?action=";
-    public static final String ADMIN_CONTROLLER = "AdminControllerServlet?action=";
-    public static final String COACH_CONTROLLER = "CoachControllerServlet?action=";
-    
-    public static final String CONTROLLER_SUBDOMAIN = "http://localhost:8080/nafasports/ControllerServlet?action=";
-    public static final String ADMIN_CONTROLLER_SUBDOMAIN = "http://localhost:8080/nafasports/AdminControllerServlet?action=";
-    public static final String COACH_CONTROLLER_SUBDOMAIN = "http://localhost:8080/nafasports/CoachControllerServlet?action=";
-    
-    public static final String DOMAIN = "http://localhost:8080/nafasports/";
-    public static final String DOMAIN_ADMIN = "http://localhost:8080/nafasports/admin_nafa/";
-    public static final String DOMAIN_COACH = "http://localhost:8080/nafasports/coaches/";
+//    public static final String CONTROLLER = "ControllerServlet?action=";
+//    public static final String ADMIN_CONTROLLER = "AdminControllerServlet?action=";
+//    public static final String COACH_CONTROLLER = "CoachControllerServlet?action=";
+//    
+//    public static final String CONTROLLER_SUBDOMAIN = "http://localhost:8080/nafasports/ControllerServlet?action=";
+//    public static final String ADMIN_CONTROLLER_SUBDOMAIN = "http://localhost:8080/nafasports/AdminControllerServlet?action=";
+//    public static final String COACH_CONTROLLER_SUBDOMAIN = "http://localhost:8080/nafasports/CoachControllerServlet?action=";
+//    
+//    public static final String DOMAIN = "http://localhost:8080/nafasports/";
+//    public static final String DOMAIN_ADMIN = "http://localhost:8080/nafasports/admin_nafa/";
+//    public static final String DOMAIN_COACH = "http://localhost:8080/nafasports/coaches/";
     
 //    
 //    ################### NAFA Table Schemas #########################
@@ -95,6 +95,18 @@ public class AppData {
 //    public static String DOMAIN = "https://www.nafafootball.com";
 //    public static String DOMAIN_ADMIN = "https://www.nafafootball.com/admin_nafa/";
 //    public static String DOMAIN_COACH = "https://www.nafafootball.com/coaches/";
+//    
+//    ################### Jovine360 NAFA Online end ########################################    
+    
+//    ******************** Jovine360 AWS NAFA Online **************************************   
+    
+    public static final String CONTROLLER_SUBDOMAIN = "https://www.nafa.ng/ControllerServlet?action=";
+    public static final String ADMIN_CONTROLLER_SUBDOMAIN = "https://www.nafa.ng/AdminControllerServlet?action=";
+    public static final String COACH_CONTROLLER_SUBDOMAIN = "https://www.nafa.ng/CoachControllerServlet?action=";
+   
+    public static String DOMAIN = "https://www.www.nafa.ng";
+    public static String DOMAIN_ADMIN = "https://www.nafa.ng/admin_nafa/";
+    public static String DOMAIN_COACH = "https://www.nafa.ng/coaches/";
 //    
 //    ################### Jovine360 NAFA Online end ########################################    
     
